@@ -1,7 +1,7 @@
 {
     "name": "pancini/simplepermission",
     "description": ":description",
-    "license": "license",
+    "license": "MIT",
     "authors": [
         {
             "name": "Ricardo Pancini",
