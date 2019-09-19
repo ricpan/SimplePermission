@@ -6,10 +6,10 @@
         {
             "name": "Ricardo Pancini",
             "email": "rpancini@gmail.com",
-            "homepage": "author homepage"
+            "homepage": "https://github.com/ricpan/SimplePermission"
         }
     ],
-    "homepage": "https://github.com/pancini/simplepermission",
+    "homepage": "https://github.com/ricpan/SimplePermission",
     "keywords": ["Laravel", "SimplePermission"],
     "require": {
         "illuminate/support": "~5"
