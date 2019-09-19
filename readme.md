@@ -53,5 +53,5 @@ license. Please see the [license file](license.md) for more information.
 [link-downloads]: https://packagist.org/packages/pancini/simplepermission
 [link-travis]: https://travis-ci.org/pancini/simplepermission
 [link-styleci]: https://styleci.io/repos/12345678
-[link-author]: https://github.com/pancini
+[link-author]: https://github.com/ricpan
 [link-contributors]: ../../contributors
