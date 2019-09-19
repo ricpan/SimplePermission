@@ -1,0 +1,43 @@
+{
+    "name": "pancini/simplepermission",
+    "description": ":description",
+    "license": "license",
+    "authors": [
+        {
+            "name": "Ricardo Pancini",
+            "email": "rpancini@gmail.com",
+            "homepage": "author homepage"
+        }
+    ],
+    "homepage": "https://github.com/pancini/simplepermission",
+    "keywords": ["Laravel", "SimplePermission"],
+    "require": {
+        "illuminate/support": "~5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~7.0",
+        "mockery/mockery": "^1.1",
+        "orchestra/testbench": "~3.0",
+        "sempro/phpunit-pretty-print": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pancini\\SimplePermission\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Pancini\\SimplePermission\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Pancini\\SimplePermission\\SimplePermissionServiceProvider"
+            ],
+            "aliases": {
+                "SimplePermission": "Pancini\\SimplePermission\\Facades\\SimplePermission"
+            }
+        }
+    }
+}
