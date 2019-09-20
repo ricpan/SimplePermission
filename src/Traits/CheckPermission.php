@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Pancini\Traits;
+namespace Pancini\SimplePermission\Traits;
 
 use Illuminate\Support\Facades\Auth;
 

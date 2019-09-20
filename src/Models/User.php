@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Pancini\Models;;
+namespace Pancini\SimplePermission\Models;
 
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Contracts\Auth\MustVerifyEmail;

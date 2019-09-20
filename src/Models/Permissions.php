@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Pancini\Models;
+namespace Pancini\SimplePermission\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
