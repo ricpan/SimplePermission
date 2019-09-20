@@ -1,5 +1,6 @@
 {
     "name": "pancini/simplepermission",
+    "minimum-stability": "stable",
     "description": "Simple package to test packagist.org",
     "license": "MIT",
     "authors": [
